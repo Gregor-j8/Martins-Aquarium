@@ -6,7 +6,7 @@ export const fishList = () => {
      
         for (const fish of fishes) {
             fishHTML += `
-                <article class="movie">
+                <article class="fish">
                     <img src="${fish.image}" alt="${fish.name} poster" class="fish-picture">
                     <div class="fish-details">
                         <h2 class="fish-name">${fish.name}</h2>

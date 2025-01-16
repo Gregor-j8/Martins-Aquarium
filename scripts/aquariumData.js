@@ -56,5 +56,52 @@ export const database = {
             diet: "pelagic fishes",
             image: "https://angari.org/wp-content/uploads/2022/10/Image-for-post-1-PC-Hannes-Ribbner.jpeg"
         },
+    ],
+    tips: 
+    [
+        {
+            topic: "Water Temperature",
+            text: "Maintain a consistent water temperature between 75-80°F (24-27°C) for most tropical fish."
+        },
+        {
+            topic: "Fish music ",
+            text: "Goldfish can distinguish the music of one composer from another"
+        },
+        {
+            topic: "fish salt",
+            text: "Most fish have little salt in them. Sharks, however, have meat as salty as the ocean they live in.."
+        },
+        {
+            topic: "swimming backwards",
+            text: "Most fish cannot swim backwards. Those that can are mainly members of one of the eel families."
+        }
+    ],
+    locations:
+     [
+        {
+            name: "Great Barrier Reef",
+            country: "Australia",
+            description: "The Great Barrier Reef is the world's largest coral reef system, supporting a diverse array of marine life."
+        },
+        {
+            name: "Gakkel Ridge",
+            country: "Greenland",
+            description: "The Gakkel Ridge is a unique landscape that could provide insights into the early life on Earth."
+        },
+        {
+            name: "Tonga Trench",
+            country: "Australia",
+            description: "The trench is the site of the fastest plate-tectonic velocity on Earth it is the deepest trench in the Southern Hemisphere."
+        },
+        {
+            name: "Chagos Island reefs",
+            country: "India",
+            description: "The reefs are characterized by their vibrant colors, clear water, and abundant marine life."
+        },
+        {
+            name: "Cenotes of Mexicos Yucatán peninsula",
+            country: "mexico",
+            description: "pockmarked with natural sinkholes, which twist downwards into the porous limestone bedrock."
+        }
     ]
 }
