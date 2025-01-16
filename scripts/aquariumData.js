@@ -56,6 +56,14 @@ export const database = {
             diet: "pelagic fishes",
             image: "https://angari.org/wp-content/uploads/2022/10/Image-for-post-1-PC-Hannes-Ribbner.jpeg"
         },
+        {
+            name: "Viperfish",
+            species: "Chauliodus",
+            length: 7,
+            location: "Pacific Oceans",
+            diet: "crustaceans",
+            image: "https://www.montereybayaquarium.org/globalassets/mba/images/animals/deep-sea/mbari-owned/pacific-viperfish-mbari-2005-chauliodus_macouni_d838_02.jpg?format=jpeg&quality=60"
+        },
     ],
     tips: 
     [
