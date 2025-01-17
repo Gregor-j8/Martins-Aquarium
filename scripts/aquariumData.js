@@ -64,6 +64,89 @@ export const database = {
             diet: "crustaceans",
             image: "https://www.montereybayaquarium.org/globalassets/mba/images/animals/deep-sea/mbari-owned/pacific-viperfish-mbari-2005-chauliodus_macouni_d838_02.jpg?format=jpeg&quality=60"
         },
+        {
+            "name": "Clownfish",
+            "species": "Amphiprioninae",
+            "length": 4,
+            "location": "Indian and Pacific Oceans",
+            "diet": "Omnivore",
+            "image": "https://example.com/images/clownfish.jpg"
+          },
+          {
+            "name": "Great White Shark",
+            "species": "Carcharodon carcharias",
+            "length": 15,
+            "location": "Worldwide, mostly in coastal waters",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/great_white_shark.jpg"
+          },
+          {
+            "name": "Blue Tang",
+            "species": "Paracanthurus hepatus",
+            "length": 12,
+            "location": "Indo-Pacific region",
+            "diet": "Omnivore",
+            "image": "https://example.com/images/blue_tang.jpg"
+          },
+          {
+            "name": "Yellow Tang",
+            "species": "Zebrasoma flavescens",
+            "length": 8,
+            "location": "Hawaii and other Indo-Pacific regions",
+            "diet": "Herbivore",
+            "image": "https://example.com/images/yellow_tang.jpg"
+          },
+          {
+            "name": "Lionfish",
+            "species": "Pterois volitans",
+            "length": 15,
+            "location": "Indo-Pacific, now invasive in the Atlantic",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/lionfish.jpg"
+          },
+          {
+            "name": "Anglerfish",
+            "species": "Lasiognathidae",
+            "length": 12,
+            "location": "Deep ocean waters worldwide",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/anglerfish.jpg"
+          },
+          {
+            "name": "Pufferfish",
+            "species": "Tetraodontidae",
+            "length": 10,
+            "location": "Warm ocean waters, worldwide",
+            "diet": "Omnivore",
+            "image": "https://example.com/images/pufferfish.jpg"
+          },
+          {
+            "name": "Mantis Shrimp",
+            "species": "Stomatopoda",
+            "length": 18,
+            "location": "Tropical and subtropical waters",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/mantis_shrimp.jpg"
+          },
+          {
+            "name": "Snapper",
+            "species": "Lutjanidae",
+            "length": 18,
+            "location": "Warm waters worldwide",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/snapper.jpg"
+          },
+          {
+            "name": "Barracuda",
+            "species": "Sphyraena",
+            "length": 6,
+            "location": "Tropical and subtropical oceans",
+            "diet": "Carnivore",
+            "image": "https://example.com/images/barracuda.jpg"
+          },
+          
+          
+          
     ],
     tips: 
     [

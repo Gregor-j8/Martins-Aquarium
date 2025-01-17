@@ -1,13 +1,15 @@
-import { fishList } from './fishList.js'
+import { mostRegularFish, mostSoldierFish, mostHolyFish } from './fishFilter.js'
 import { tipList } from './tipList.js'
 import { locationList } from './locationList.js'
 
 // Generate the fish list
-const fishHTML = fishList()
+const regularFishHTML = mostRegularFish() 
+const soldierFishHTML = mostSoldierFish()
+const holyFishHTML = mostHolyFish()
 const fishTank = document.getElementById("fishList")
 
 if (fishTank) {
-    fishTank.innerHTML = fishHTML
+    fishTank.innerHTML = holyFishHTML + soldierFishHTML + regularFishHTML
 }
 
 // Generate the care tips

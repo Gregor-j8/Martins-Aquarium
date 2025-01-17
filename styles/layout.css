@@ -20,6 +20,7 @@ img {
 }
 
 .location-tips {
+    
     margin: 20px;
     display: flex;
     flex-flow: column wrap;    
